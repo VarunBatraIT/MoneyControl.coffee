@@ -1,0 +1,29 @@
+{
+  "name": "moneycontrolcoffee",
+  "version": "1.0.0",
+  "description": "Money Control Crawler",
+  "main": "release.js",
+  "dependencies": {
+    "cacheman": "^2.0.0",
+    "cacheman-file": "0.1.0",
+    "cookie": "^0.2.3",
+    "got": "^5.0.0",
+    "jade": "^1.11.0",
+    "jquery": "^2.1.4",
+    "jsdom": "^7.1.1",
+    "lodash": "^3.10.1",
+    "moment": "^2.10.6",
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "money control",
+    "moneycontrol"
+  ],
+  "author": "Varun Batra <codevarun@gmail.com>",
+  "license": "MIT"
+}
