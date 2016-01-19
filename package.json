@@ -2,7 +2,7 @@
   "name": "moneycontrolcoffee",
   "version": "1.0.0",
   "description": "Money Control Crawler",
-  "main": "release.js",
+  "main": "moneycontrol.js",
   "dependencies": {
     "cacheman": "^2.0.0",
     "cacheman-file": "0.1.0",
